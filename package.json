@@ -1,0 +1,19 @@
+{
+  "name": "flowing-css",
+	"version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcanno/flowing-css.git"
+  },
+  "author": "jacano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jcanno/flowing-css/issues"
+  },
+  "homepage": "https://github.com/Jcanno/flowing-css#readme"
+}
